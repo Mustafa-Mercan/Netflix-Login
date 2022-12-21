@@ -85,7 +85,7 @@ textarea{
 }
 
 #form-submit{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     width: 160px;
     margin: auto;
 }
